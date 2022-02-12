@@ -1,0 +1,328 @@
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\appsettings.json
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\BrodnikProject.exe
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\BrodnikProject.deps.json
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\BrodnikProject.runtimeconfig.json
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\BrodnikProject.runtimeconfig.dev.json
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\BrodnikProject.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\BrodnikProject.pdb
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\BrodnikProject.Views.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\BrodnikProject.Views.pdb
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\obj\Debug\netcoreapp3.1\BrodnikProject.csprojAssemblyReference.cache
+D:\School\CISS243\BrodnikProject\BrodnikProject\obj\Debug\netcoreapp3.1\BrodnikProject.AssemblyInfoInputs.cache
+D:\School\CISS243\BrodnikProject\BrodnikProject\obj\Debug\netcoreapp3.1\BrodnikProject.AssemblyInfo.cs
+D:\School\CISS243\BrodnikProject\BrodnikProject\obj\Debug\netcoreapp3.1\BrodnikProject.csproj.CoreCompileInputs.cache
+D:\School\CISS243\BrodnikProject\BrodnikProject\obj\Debug\netcoreapp3.1\BrodnikProject.MvcApplicationPartsAssemblyInfo.cache
+D:\School\CISS243\BrodnikProject\BrodnikProject\obj\Debug\netcoreapp3.1\BrodnikProject.RazorAssemblyInfo.cache
+D:\School\CISS243\BrodnikProject\BrodnikProject\obj\Debug\netcoreapp3.1\BrodnikProject.RazorAssemblyInfo.cs
+D:\School\CISS243\BrodnikProject\BrodnikProject\obj\Debug\netcoreapp3.1\staticwebassets\BrodnikProject.StaticWebAssets.Manifest.cache
+D:\School\CISS243\BrodnikProject\BrodnikProject\obj\Debug\netcoreapp3.1\staticwebassets\BrodnikProject.StaticWebAssets.xml
+D:\School\CISS243\BrodnikProject\BrodnikProject\obj\Debug\netcoreapp3.1\scopedcss\bundle\BrodnikProject.styles.css
+D:\School\CISS243\BrodnikProject\BrodnikProject\obj\Debug\netcoreapp3.1\BrodnikProject.TagHelpers.input.cache
+D:\School\CISS243\BrodnikProject\BrodnikProject\obj\Debug\netcoreapp3.1\BrodnikProject.TagHelpers.output.cache
+D:\School\CISS243\BrodnikProject\BrodnikProject\obj\Debug\netcoreapp3.1\BrodnikProject.RazorCoreGenerate.cache
+D:\School\CISS243\BrodnikProject\BrodnikProject\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\School\CISS243\BrodnikProject\BrodnikProject\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\School\CISS243\BrodnikProject\BrodnikProject\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\School\CISS243\BrodnikProject\BrodnikProject\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\School\CISS243\BrodnikProject\BrodnikProject\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\School\CISS243\BrodnikProject\BrodnikProject\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\School\CISS243\BrodnikProject\BrodnikProject\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\School\CISS243\BrodnikProject\BrodnikProject\obj\Debug\netcoreapp3.1\BrodnikProject.RazorTargetAssemblyInfo.cache
+D:\School\CISS243\BrodnikProject\BrodnikProject\obj\Debug\netcoreapp3.1\BrodnikProject.RazorTargetAssemblyInfo.cs
+D:\School\CISS243\BrodnikProject\BrodnikProject\obj\Debug\netcoreapp3.1\BrodnikProject.Views.pdb
+D:\School\CISS243\BrodnikProject\BrodnikProject\obj\Debug\netcoreapp3.1\BrodnikProject.csproj.CopyComplete
+D:\School\CISS243\BrodnikProject\BrodnikProject\obj\Debug\netcoreapp3.1\BrodnikProject.dll
+D:\School\CISS243\BrodnikProject\BrodnikProject\obj\Debug\netcoreapp3.1\BrodnikProject.pdb
+D:\School\CISS243\BrodnikProject\BrodnikProject\obj\Debug\netcoreapp3.1\BrodnikProject.genruntimeconfig.cache
+D:\School\CISS243\BrodnikProject\BrodnikProject\obj\Debug\netcoreapp3.1\Razor\Pages\Players\Create.cshtml.g.cs
+D:\School\CISS243\BrodnikProject\BrodnikProject\obj\Debug\netcoreapp3.1\Razor\Pages\Players\Delete.cshtml.g.cs
+D:\School\CISS243\BrodnikProject\BrodnikProject\obj\Debug\netcoreapp3.1\Razor\Pages\Players\Details.cshtml.g.cs
+D:\School\CISS243\BrodnikProject\BrodnikProject\obj\Debug\netcoreapp3.1\Razor\Pages\Players\Edit.cshtml.g.cs
+D:\School\CISS243\BrodnikProject\BrodnikProject\obj\Debug\netcoreapp3.1\Razor\Pages\Players\Index.cshtml.g.cs
+D:\School\CISS243\BrodnikProject\BrodnikProject\obj\Debug\netcoreapp3.1\Razor\Pages\Game\Create.cshtml.g.cs
+D:\School\CISS243\BrodnikProject\BrodnikProject\obj\Debug\netcoreapp3.1\Razor\Pages\Game\Delete.cshtml.g.cs
+D:\School\CISS243\BrodnikProject\BrodnikProject\obj\Debug\netcoreapp3.1\Razor\Pages\Game\Details.cshtml.g.cs
+D:\School\CISS243\BrodnikProject\BrodnikProject\obj\Debug\netcoreapp3.1\Razor\Pages\Game\Edit.cshtml.g.cs
+D:\School\CISS243\BrodnikProject\BrodnikProject\obj\Debug\netcoreapp3.1\Razor\Pages\Game\Index.cshtml.g.cs
+D:\School\CISS243\BrodnikProject\BrodnikProject\obj\Debug\netcoreapp3.1\Razor\Pages\Stats\Create.cshtml.g.cs
+D:\School\CISS243\BrodnikProject\BrodnikProject\obj\Debug\netcoreapp3.1\Razor\Pages\Stats\Delete.cshtml.g.cs
+D:\School\CISS243\BrodnikProject\BrodnikProject\obj\Debug\netcoreapp3.1\Razor\Pages\Stats\Details.cshtml.g.cs
+D:\School\CISS243\BrodnikProject\BrodnikProject\obj\Debug\netcoreapp3.1\Razor\Pages\Stats\Edit.cshtml.g.cs
+D:\School\CISS243\BrodnikProject\BrodnikProject\obj\Debug\netcoreapp3.1\Razor\Pages\Stats\Index.cshtml.g.cs
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\BrodnikProject.exe
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\BrodnikProject.deps.json
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\BrodnikProject.runtimeconfig.json
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\BrodnikProject.runtimeconfig.dev.json
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\BrodnikProject.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\BrodnikProject.pdb
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\BrodnikProject.Views.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\BrodnikProject.Views.pdb
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\obj\Debug\netcoreapp3.1\BrodnikProject.csprojAssemblyReference.cache
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\obj\Debug\netcoreapp3.1\BrodnikProject.AssemblyInfoInputs.cache
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\obj\Debug\netcoreapp3.1\BrodnikProject.AssemblyInfo.cs
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\obj\Debug\netcoreapp3.1\BrodnikProject.csproj.CoreCompileInputs.cache
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\obj\Debug\netcoreapp3.1\BrodnikProject.MvcApplicationPartsAssemblyInfo.cache
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\obj\Debug\netcoreapp3.1\BrodnikProject.RazorAssemblyInfo.cache
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\obj\Debug\netcoreapp3.1\BrodnikProject.RazorAssemblyInfo.cs
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\obj\Debug\netcoreapp3.1\staticwebassets\BrodnikProject.StaticWebAssets.Manifest.cache
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\obj\Debug\netcoreapp3.1\staticwebassets\BrodnikProject.StaticWebAssets.xml
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\obj\Debug\netcoreapp3.1\scopedcss\bundle\BrodnikProject.styles.css
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\obj\Debug\netcoreapp3.1\BrodnikProject.TagHelpers.input.cache
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\obj\Debug\netcoreapp3.1\BrodnikProject.TagHelpers.output.cache
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\obj\Debug\netcoreapp3.1\BrodnikProject.RazorCoreGenerate.cache
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\obj\Debug\netcoreapp3.1\Razor\Pages\Game\Create.cshtml.g.cs
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\obj\Debug\netcoreapp3.1\Razor\Pages\Game\Delete.cshtml.g.cs
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\obj\Debug\netcoreapp3.1\Razor\Pages\Game\Details.cshtml.g.cs
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\obj\Debug\netcoreapp3.1\Razor\Pages\Game\Edit.cshtml.g.cs
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\obj\Debug\netcoreapp3.1\Razor\Pages\Game\Index.cshtml.g.cs
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\obj\Debug\netcoreapp3.1\Razor\Pages\Players\Create.cshtml.g.cs
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\obj\Debug\netcoreapp3.1\Razor\Pages\Players\Delete.cshtml.g.cs
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\obj\Debug\netcoreapp3.1\Razor\Pages\Players\Details.cshtml.g.cs
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\obj\Debug\netcoreapp3.1\Razor\Pages\Players\Edit.cshtml.g.cs
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\obj\Debug\netcoreapp3.1\Razor\Pages\Players\Index.cshtml.g.cs
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\obj\Debug\netcoreapp3.1\Razor\Pages\Stats\Create.cshtml.g.cs
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\obj\Debug\netcoreapp3.1\Razor\Pages\Stats\Delete.cshtml.g.cs
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\obj\Debug\netcoreapp3.1\Razor\Pages\Stats\Details.cshtml.g.cs
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\obj\Debug\netcoreapp3.1\Razor\Pages\Stats\Edit.cshtml.g.cs
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\obj\Debug\netcoreapp3.1\Razor\Pages\Stats\Index.cshtml.g.cs
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\obj\Debug\netcoreapp3.1\BrodnikProject.RazorTargetAssemblyInfo.cache
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\obj\Debug\netcoreapp3.1\BrodnikProject.RazorTargetAssemblyInfo.cs
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\obj\Debug\netcoreapp3.1\BrodnikProject.Views.pdb
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\obj\Debug\netcoreapp3.1\BrodnikProject.csproj.CopyComplete
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\obj\Debug\netcoreapp3.1\BrodnikProject.dll
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\obj\Debug\netcoreapp3.1\BrodnikProject.pdb
+D:\Completed School\Websites\CISS243\BrodnikProject\BrodnikProject\obj\Debug\netcoreapp3.1\BrodnikProject.genruntimeconfig.cache

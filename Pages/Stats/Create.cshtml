@@ -1,0 +1,54 @@
+﻿@page
+@model BrodnikProject.Pages.Stats.CreateModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Stat</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Stat.Hits" class="control-label"></label>
+                <input asp-for="Stat.Hits" class="form-control" />
+                <span asp-validation-for="Stat.Hits" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Stat.Walks" class="control-label"></label>
+                <input asp-for="Stat.Walks" class="form-control" />
+                <span asp-validation-for="Stat.Walks" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Stat.BA" class="control-label"></label>
+                <input asp-for="Stat.BA" class="form-control" />
+                <span asp-validation-for="Stat.BA" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Stat.SO" class="control-label"></label>
+                <input asp-for="Stat.SO" class="form-control" />
+                <span asp-validation-for="Stat.SO" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Stat.LastName" class="control-label"></label>
+                <input asp-for="Stat.LastName" class="form-control" />
+                <span asp-validation-for="Stat.LastName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
